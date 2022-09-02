@@ -10,5 +10,5 @@
 <hr>
 <div align="left">
   <h3>Links 🔗</h3>
-  <a href="https://discord.com/users/360322989515866112" target="_blank"><img src="https://shields.io/badge/NoNametxt-111111.svg?&style=for-the-badge&logo=discord&color=36393f"></a>
+  <a href="https://discord.com/users/360322989515866112" target="_blank"><img src="https://shields.io/badge/NoName.txt-111111.svg?&style=for-the-badge&logo=discord&color=36393f"></a>
 </div>
