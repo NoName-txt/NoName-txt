@@ -5,7 +5,7 @@
 <div align="left">
   <h3>My Stats 📝</h3>
     <a href="https://github.com/NoName-txt"><img height="160px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api?username=noname-txt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"></a>
-    <a href="https://github.com/NoName-txt"><img height="160px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname-txt&theme=tokyonight&layout=compact&langs_count=8"></a>
+    <a href="https://github.com/NoName-txt"><img height="160px" style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noname-txt&theme=tokyonight&layout=compact&langs_count=6"></a>
 </div>
 <hr>
 <div align="left">
